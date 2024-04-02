@@ -3,7 +3,7 @@
 i'm a linux engineer who moonlights as a big dog 🐶
 
 #### goals
-⬜ get back into using perl all the time because perl is love, not shrek
+⬜ get gud with rust
 
-⬜ submit a successful linux kernel patch
+⬜ submit a successful linux kernel patch in rust
 
